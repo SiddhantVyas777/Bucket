@@ -1,2 +1,2 @@
 # Bucket
-Tool for finding aws buckets for an company and permissions assigned to them.
+Tool for finding aws buckets for a target and permissions assigned to them.
